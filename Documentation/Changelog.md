@@ -9,6 +9,7 @@
 #### `PyImpact`
 
 - Added audio values for more objects.
+- Fixed: relative amp values aren't handled correctly.
 
 #### `FloorplanController`
 
